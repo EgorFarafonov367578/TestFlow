@@ -1,0 +1,3 @@
+[submodule "Sub"]
+	path = Sub
+	url = https://github.com/EgorFarafonov367578/Sub.git
